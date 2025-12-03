@@ -1,6 +1,6 @@
 <!-- Avatar -->
 <p align="center">
-  <img src="https://github.com/nazimhamia.png" alt="Nazim Avatar" height="160" />
+  <img src="https://github.com/naaazim/naaazim/blob/main/avatar_round_gray.png" alt="Nazim Hamia" height="160" />
 </p>
 
 <!-- Typing Animation -->
@@ -38,19 +38,20 @@ Curious, disciplined, and always learning — I aim to become an excellent backe
 
 ## 🔎 What I'm Currently Doing
 
-- 🌱 **Learning**: Java, Spring Boot, Linux, Ethical Hacking, Networks  
-- 🔐 **Passionate about**: Pentesting, Cryptography, System & Network Security  
-- 🎯 **Focusing on**: Building real-world backend systems  
-- 🤝 **Open to**: Internships or backend/cybersecurity collaborations  
+- 🛠️ **Building**: A custom vulnerability scanner for servers (network mapping, port analysis, weak configuration detection)  
+- 🌱 **Learning**: Java, Spring Boot, Linux, Ethical Hacking, Network Security  
+- 🔐 **Deep interest in**: Pentesting, Cryptography, System & Network Security  
+- 🎯 **Currently focusing on**: Backend engineering + cybersecurity tooling  
+- 💼 **Portfolio**: <a href="https://nazimhamia.fr" target="_blank">https://nazimhamia.fr</a>  
+- 🤝 **Open to**: Internships or collaborations in backend development or cybersecurity  
 - 💬 **Ask me anything**:  
-  👉 <a href="https://github.com/nazimhamia/nazimhamia/issues">Open an issue here</a>  
+  👉 <a href="https://github.com/naaazim/naaazim/issues">Open an issue here</a>  
 - 📫 **Reach me**: LinkedIn or Email above ☝️  
 
 ---
 
 ## 🛠️ Skills
 
-<!-- Infinite slider -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,c,linux,git,docker,postgres,html,css,js,python&perline=11" />
 </p>
@@ -60,11 +61,11 @@ Curious, disciplined, and always learning — I aim to become an excellent backe
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazimhamia&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naaazim&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazimhamia&theme=dark&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naaazim&theme=dark&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="200" />
 </p>
 
 ---

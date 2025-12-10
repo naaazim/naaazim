@@ -169,19 +169,7 @@ Un outil d'audit de sécurité capable de:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naaazim&theme=radical&hide_border=true&background=0D1117&ring=6FDA44&fire=6FDA44&currStreakLabel=6FDA44" />
-
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=naaazim&theme=react-dark&hide_border=true&bg_color=0D1117&color=6FDA44&line=6FDA44&point=FFFFFF" />
-
-</div>
-
----
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=naaazim&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 

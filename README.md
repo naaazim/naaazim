@@ -102,7 +102,7 @@ My approach is simple: security is never an afterthought — it is part of every
 
 ### Databases & Build Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,gradle,maven" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres,maven" height="50" />
 </p>
 
 ### Security & Pentest

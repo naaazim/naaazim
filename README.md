@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Nazim%20Hamia&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevSecOps%20%7C%20Systems%20Security&descAlignY=51&descSize=18" />
 
-<img src="https://github.com/naaazim/naaazim/blob/main/avatar_round_gray.png" alt="Nazim Hamia" width="180" style="border-radius: 50%; border: 4px solid #6FDA44; box-shadow: 0 0 20px rgba(111, 218, 68, 0.5);" />
+<img src="https://github.com/naaazim/naaazim/blob/main/pdp_arrondie.png" alt="Nazim Hamia" width="180" style="border-radius: 50%; border: 4px solid #6FDA44; box-shadow: 0 0 20px rgba(111, 218, 68, 0.5);" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6FDA44&size=24&center=true&vCenter=true&width=750&height=45&lines=Computer+Science+Student;DevSecOps+Enthusiast;Systems+Security+Specialist;Penetration+Testing" alt="Typing Animation" />
